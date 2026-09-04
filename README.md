@@ -23,7 +23,8 @@ I love doing cool projects ❤️
 
 ---
 ## core skills
-![python-lua-luau-swift-rust-c](https://www.readmecodegen.com/api/social-icon?name=python%2Clua%2Cluau%2Cswift%2Crust%2Cc&animationDuration=1.7&reverseBackground=true)\n
+![python-lua-luau-swift-rust-c](https://www.readmecodegen.com/api/social-icon?name=python%2Clua%2Cluau%2Cswift%2Crust%2Cc&animationDuration=1.7&reverseBackground=true)
+
 I am experienced in:
 - Python (Fluent)
 - Lua & Luau (Fluent)
