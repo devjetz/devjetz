@@ -14,4 +14,19 @@ Here are some ideas to get you started:
 -->
 
 ![The San Juan Mountains are beautiful](/pics/banner.png)
+### Hello!
+#If you could **not** already tell, my name is *dev*.
+
+I have 7 years of experience when it comes to programming. I am very strong at back-end, not so much front-end. 😳
+I love doing cool projects ❤️
+
 ![python-lua-luau-swift-rust-c](https://www.readmecodegen.com/api/social-icon?name=python%2Clua%2Cluau%2Cswift%2Crust%2Cc&animationDuration=1.7&reverseBackground=true)
+I am experienced in:
+- Python (Fluent)
+- Lua & Luau (Fluent)
+- Swift (Good)
+- Rust (Good)
+- C (👀)
+
+If you want to work with me, please hit me up on discord. My handle is:
+**@dogsheet**
