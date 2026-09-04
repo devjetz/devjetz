@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 
 ![The San Juan Mountains are beautiful](/pics/banner.png)
 ### Hello!
-#If you could **not** already tell, my name is *dev*.
+# If you could **not** already tell, my name is *dev*.
+I am a teen with the love for programming. I have 7 years of experience, and i am killing it on back-end. I work fast, and ship industrial code & patches within a weekend.
+When it comes to actually using GitHub, i have some improving to do.. 😅 See, i usually run all my projects on my computer, locally, instead of publishing it.
 
-I have 7 years of experience when it comes to programming. I am very strong at back-end, not so much front-end. 😳
 I love doing cool projects ❤️
 
+---
+## core skills
 ![python-lua-luau-swift-rust-c](https://www.readmecodegen.com/api/social-icon?name=python%2Clua%2Cluau%2Cswift%2Crust%2Cc&animationDuration=1.7&reverseBackground=true)
 I am experienced in:
 - Python (Fluent)
@@ -28,5 +31,9 @@ I am experienced in:
 - Rust (Good)
 - C (👀)
 
+---
+## contact
 If you want to work with me, please hit me up on discord. My handle is:
 **@dogsheet**
+
+
