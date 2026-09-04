@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ![The San Juan Mountains are beautiful](/pics/banner.png)
-### Hello!
-# If you could **not** already tell, my name is *dev*.
+# Hello! 👋
+### If you could **not** already tell, my name is *dev*.
 I am a teen with the love for programming. I have 7 years of experience, and i am killing it on back-end. I work fast, and ship industrial code & patches within a weekend.
 When it comes to actually using GitHub, i have some improving to do.. 😅 See, i usually run all my projects on my computer, locally, instead of publishing it.
 
