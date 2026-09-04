@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **devjetz/devjetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![The San Juan Mountains are beautiful](/pics/banner.png)
+![python-lua-luau-swift-rust-c](https://www.readmecodegen.com/api/social-icon?name=python%2Clua%2Cluau%2Cswift%2Crust%2Cc&animationDuration=1.7&reverseBackground=true)
